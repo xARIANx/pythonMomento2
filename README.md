@@ -4,4 +4,6 @@
 
 <h4> TALLER MOMENTO 2 </h4>
 <li> Arian Castro </li>
+<br>
+<p>profe no me deja hacer el pullRequest para unificar la rama master con la main el trabajo quedo en la rama master, disculpe tantas molestias</p>
 
